@@ -1,2 +1,2 @@
 # NumberGuessingGame
-codsoft task-1
+codsoft internship task-1
