@@ -1,2 +1,2 @@
-# NumberGuessingGame
-codsoft internship task-1
+# CODSOFT INTERNSHIP
+
